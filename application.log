@@ -1,0 +1,36 @@
+2022-10-09 19:15:56,868  INFO [main] SauceDemo_Project:44 - Browser is opened
+2022-10-09 19:16:06,886  INFO [main] SauceDemo_Project:47 - website is open
+2022-10-09 19:16:07,729  INFO [main] SauceDemo_Project:60 - username is entered
+2022-10-09 19:16:08,000  INFO [main] SauceDemo_Project:63 - Password is entered
+2022-10-09 19:16:08,260  INFO [main] SauceDemo_Project:66 - Clicked on login button
+2022-10-09 19:16:08,691  INFO [main] SauceDemo_Project:25 - apply the validation
+2022-10-09 19:16:09,903  INFO [main] SauceDemo_Project:74 - browser is closed
+2022-10-09 19:16:09,903  INFO [main] SauceDemo_Project:76 - end of Program
+2022-10-09 19:16:11,079  INFO [main] SauceDemo_Project:44 - Browser is opened
+2022-10-09 19:16:18,400  INFO [main] SauceDemo_Project:47 - website is open
+2022-10-09 19:16:19,295  INFO [main] SauceDemo_Project:60 - username is entered
+2022-10-09 19:16:19,439  INFO [main] SauceDemo_Project:63 - Password is entered
+2022-10-09 19:16:19,826  INFO [main] SauceDemo_Project:66 - Clicked on login button
+2022-10-09 19:16:20,249  INFO [main] SauceDemo_Project:26 - clicked on menu button
+2022-10-09 19:16:20,413  INFO [main] SauceDemo_Project:28 - clicked on Logoutbutton
+2022-10-09 19:16:20,718  INFO [main] SauceDemo_Project:33 - apply the validation
+2022-10-09 19:16:21,135  INFO [main] SauceDemo_Project:74 - browser is closed
+2022-10-09 19:16:21,136  INFO [main] SauceDemo_Project:76 - end of Program
+2022-10-09 19:16:22,410  INFO [main] SauceDemo_Project:44 - Browser is opened
+2022-10-09 19:16:31,697  INFO [main] SauceDemo_Project:47 - website is open
+2022-10-09 19:16:32,594  INFO [main] SauceDemo_Project:60 - username is entered
+2022-10-09 19:16:32,844  INFO [main] SauceDemo_Project:63 - Password is entered
+2022-10-09 19:16:33,276  INFO [main] SauceDemo_Project:66 - Clicked on login button
+2022-10-09 19:16:33,714  INFO [main] SauceDemo_Project:30 - Bag product will get selected
+2022-10-09 19:16:34,100  INFO [main] SauceDemo_Project:38 - apply validation
+2022-10-09 19:16:34,358  INFO [main] SauceDemo_Project:74 - browser is closed
+2022-10-09 19:16:34,359  INFO [main] SauceDemo_Project:76 - end of Program
+2022-10-09 19:16:35,800  INFO [main] SauceDemo_Project:44 - Browser is opened
+2022-10-09 19:16:43,579  INFO [main] SauceDemo_Project:47 - website is open
+2022-10-09 19:16:44,502  INFO [main] SauceDemo_Project:60 - username is entered
+2022-10-09 19:16:44,620  INFO [main] SauceDemo_Project:63 - Password is entered
+2022-10-09 19:16:44,971  INFO [main] SauceDemo_Project:66 - Clicked on login button
+2022-10-09 19:16:45,859  INFO [main] SauceDemo_Project:28 - All products will get selected
+2022-10-09 19:16:46,353  INFO [main] SauceDemo_Project:36 - apply validation
+2022-10-09 19:16:46,669  INFO [main] SauceDemo_Project:74 - browser is closed
+2022-10-09 19:16:46,670  INFO [main] SauceDemo_Project:76 - end of Program
